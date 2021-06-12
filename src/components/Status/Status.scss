@@ -1,0 +1,12 @@
+.status {
+  position: fixed;
+  right: 10px;
+  top: 10px;
+  border-radius: 5px;
+  padding: 10px;
+  background: rgba(0, 0, 0, 0.374);
+
+  .status-title {
+    margin-bottom: 10px;
+  }
+}
